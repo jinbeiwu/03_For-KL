@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "Flash_Interface.pyo", line 84, in browse
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-5: ordinal not in range(128)
+Traceback (most recent call last):
+  File "Flash_Interface.pyo", line 110, in download
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-5: ordinal not in range(128)
+Traceback (most recent call last):
+  File "Flash_Interface.pyo", line 110, in download
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-5: ordinal not in range(128)
+Traceback (most recent call last):
+  File "Flash_Interface.pyo", line 110, in download
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-5: ordinal not in range(128)
+Traceback (most recent call last):
+  File "Flash_Interface.pyo", line 110, in download
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 3-5: ordinal not in range(128)

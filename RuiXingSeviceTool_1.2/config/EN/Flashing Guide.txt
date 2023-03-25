@@ -1,0 +1,11 @@
+﻿Engine Control Unit reprogramming procedure:
+
+    1. Input password, click "Reprogramming Tool" button, and enter the reprogramming window.
+	
+    2. In the popup window of reprogarmming, click "Bundle.zip" button to select the file package for reprogramming.
+	
+    3. Click "Download" button to start the reprogramming action.
+	
+    4. During the reprogramming process, the browser in window will show the real-time status of reprogramming.
+	
+    5. Finally, the browser will show the result: success for fail.
