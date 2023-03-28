@@ -1,0 +1,3 @@
+1-  SPC560P40 is selected in doc "Steps for flashing bootloader.pptx"  ,Kohler need to select SPC560P50
+2-  
+
