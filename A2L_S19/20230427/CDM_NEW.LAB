@@ -1,0 +1,6 @@
+[Label]
+ ; Variable
+C_GPIO_DCMDIR_FUNC; Variable available in destination dataset RS19_Inst_1, but missing in source 22T_KL20230427_4.
+C_TPSNoMoveAsEngineKilledEn; Variable available in destination dataset RS19_Inst_1, but missing in source 22T_KL20230427_4.
+CT_SparkAngle1TableAllocate; Variable available in destination dataset RS19_Inst_1, but missing in source 22T_KL20230427_4.
+CT_SparkAngle2TableAllocate; Variable available in destination dataset RS19_Inst_1, but missing in source 22T_KL20230427_4.

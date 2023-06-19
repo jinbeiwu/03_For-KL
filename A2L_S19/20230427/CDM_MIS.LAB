@@ -1,0 +1,5 @@
+[Label]
+ ; Variable
+CT_CrankAngleReadlEleLag; Variable available in source dataset 22T_KL20230427_4, but missing in destination RS19_Inst_1.
+CT_SAPESubCyl1; Variable available in source dataset 22T_KL20230427_4, but missing in destination RS19_Inst_1.
+CT_SparkCalcDeadBandAngle; Variable available in source dataset 22T_KL20230427_4, but missing in destination RS19_Inst_1.
