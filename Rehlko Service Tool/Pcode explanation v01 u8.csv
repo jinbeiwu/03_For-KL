@@ -1,0 +1,118 @@
+#header,#Code,Explanation,Explanation2
+#break,#Pcode_section,,
+#Pcode,P0131,O2 Sensor 1 Circuit Low ,前氧传感器1短接低
+#Pcode,P0132,O2 Sensor 1 Circuit High,前氧传感器1短接高
+#Pcode,P0151,O2 Sensor 2 Circuit Low ,前氧传感器2短接低
+#Pcode,P0152,O2 Sensor 2 Circuit High,前氧传感器2短接高
+#Pcode,P0031,O2 Sensor 1 Heater Circuit Low,前氧加热1短接低
+#Pcode,P0032,O2 Sensor 1 Heater Circuit High,前氧加热1短接高
+#Pcode,P0137,Rear O2 Sensor 1 Circuit Low ,后氧传感器1短接低
+#Pcode,P0138,Rear O2 Sensor 1 Circuit High,后氧传感器1短接高
+#Pcode,P0037,Rear O2 Sensor Heater 1 Circuit Low,后氧加热1短接到低
+#Pcode,P0038,Rear O2 Sensor Heater 1 Circuit High,后氧加热1短接到高
+#Pcode,P0117,Coolant Temperature Sensor 1 Circuit Low,缸温传感器1短接低
+#Pcode,P0118,Coolant Temperature Sensor 1 Circuit High,缸温传感器1短接高
+#Pcode,P0116,Coolant Temperature 1 higher than expected 1,缸温1超限1
+#Pcode,P0217,Coolant Temperature 1 higher than expected 2,缸温1超限2
+#Pcode,P0112,Intake Air Temperature Sensor Circuit Low,进气温传感器短接低
+#Pcode,P0113,Intake Air Temperature Sensor Circuit High,进气温传感器短接高
+#Pcode,P0111,Intake Air Temperature higher than expected 1,进气温超限1
+#Pcode,P0127,Intake Air Temperature higher than expected 2,进气温超限2
+#Pcode,P0237,Boost Sensor Circuit Low,增压传感器短接低
+#Pcode,P0238,Boost Sensor Circuit  High,增压传感器短接高
+#Pcode,P0047,Boost Control Solenoid Circuit Low ,增压执行器短接低
+#Pcode,P0048,Boost Control Solenoid Circuit High,增压执行器短接高
+#Pcode,P0107,MAP Sensor Circuit Low,进气压力传感器短接低
+#Pcode,P0108,MAP Sensor Circuit High,进气压力传感器短接高
+#Pcode,P0091,Fuel Pressure Sensor Circuit Low,燃料压力传感器短接低
+#Pcode,P0092,Fuel Pressure Sensor Circuit High,燃料压力传感器短接高
+#Pcode,P0087,Fuel Rail/System Pressure - Too Low,燃料压力过低
+#Pcode,P0088,Fuel Rail/System Pressure - Too High,烯料压力过高
+#Pcode,P0522,Engine Oil Pressure Sensor/Switch Low Voltage,机油压力短接低
+#Pcode,P0523,Engine Oil Pressure Sensor/Switch High Voltage,机油压力短接高
+#Pcode,P0524,Engine Oil Pressure Too Low,机油压力太低
+#Pcode,P0122,Throttle Position Sensor  1 Circuit Low,节气门位置传感器短接低
+#Pcode,P0123,Throttle Position Sensor  1 Circuit High,节气门位置传感器短接高
+#Pcode,P2102,Throttle Actuator Control Motor Circuit Low ,节气门电机短接低
+#Pcode,P2103,Throttle Actuator Control Motor Circuit High,节气门电机短接高
+#Pcode,P2108,Throttle Actuator Control Module-Stuck,节气门电机堵转
+#Pcode,P0405,Fuel Valve  Position Sensor Circuit Low,燃料阀位置传感器短接低
+#Pcode,P0406,Fuel Valve  Position Sensor Circuit High,燃料阀位置传感器短接高
+#Pcode,P0489,Fuel Valve  Control Motor Circuit Low,燃料阀电机短接低
+#Pcode,P0490,Fuel Valve  Control Motor Circuit High,燃料阀电机短接高
+#Pcode,P0488,Fuel Valve  Control Module - Stuck,燃料阀电机堵转
+#Pcode,P0006,Fuel Shutoff Valve "NG" Control Circuit Low,NG切断阀控制短接低
+#Pcode,P0007,Fuel Shutoff Valve "NG" Control Circuit High,NG切断阀控制短接高
+#Pcode,P2666,Fuel Shutoff Valve "LPG" Control Circuit Low,LPG切断阀控制短接低
+#Pcode,P2667,Fuel Shutoff Valve "LPG" Control Circuit High,LPG切断阀控制短接高
+#Pcode,P0003,Fuel Bypass Valve Control Circuit Low,燃气旁通阀控制短接低
+#Pcode,P0004,Fuel Bypass Valve Control Circuit High,燃气旁通阀控制短接高
+#Pcode,P0642,5VREF1 Circuit Low,5VREF1短接低
+#Pcode,P0643,5VREF1 Circuit High,5VREF1短接高
+#Pcode,P0652,5VREF2 Circuit Low,5VREF2短接低
+#Pcode,P0653,5VREF2 Circuit High,5VREF2短接高
+#Pcode,P2300,Ignition Coil “1” Primary Control Circuit Low,线圈1短接低
+#Pcode,P2301,Ignition Coil “1” Primary Control Circuit High,线圈1短接高
+#Pcode,P2303,Ignition Coil “2” Primary Control Circuit Low,线圈2短接低
+#Pcode,P2304,Ignition Coil “2” Primary Control Circuit High,线圈2短接高
+#Pcode,P2306,Ignition Coil “3” Primary Control Circuit Low,线圈3短接低
+#Pcode,P2307,Ignition Coil “3” Primary Control Circuit High,线圈3短接高
+#Pcode,P2309,Ignition Coil “4” Primary Control Circuit Low,线圈4短接低
+#Pcode,P2310,Ignition Coil “4” Primary Control Circuit High,线圈4短接高
+#Pcode,P0261,Cylinder 1 Injector Circuit Low,1缸喷射器短接低
+#Pcode,P0262,Cylinder 1 Injector Circuit High,1缸喷射器短接高
+#Pcode,P0264,Cylinder 2 Injector Circuit Low,2缸喷射器短接低
+#Pcode,P0265,Cylinder 2 Injector Circuit High,2缸喷射器短接高
+#Pcode,P0267,Cylinder 3 Injector Circuit Low,3缸喷射器短接低
+#Pcode,P0268,Cylinder 3 Injector Circuit High,3缸喷射器短接高
+#Pcode,P0270,Cylinder 4 Injector Circuit Low,4缸喷射器短接低
+#Pcode,P0271,Cylinder 4 Injector Circuit High,4缸喷射器短接高
+#Pcode,P1200,Cylinder 1 Injector 2 Circuit Low,1缸喷射器2短接低
+#Pcode,P1201,Cylinder 1 Injector 2 Circuit High,1缸喷射器2短接高
+#Pcode,P1202,Cylinder 2 Injector 2 Circuit Low,2缸喷射器2短接低
+#Pcode,P1203,Cylinder 2 Injector 2 Circuit High,2缸喷射器2短接高
+#Pcode,P2200,Cylinder 1 Injector 3 Circuit Low,1缸喷射器3短接低
+#Pcode,P2201,Cylinder 1 Injector 3 Circuit High,1缸喷射器3短接高
+#Pcode,P2202,Cylinder 2 Injector 3 Circuit Low,2缸喷射器3短接低
+#Pcode,P2203,Cylinder 2 Injector 3 Circuit High,2缸喷射器3短接高
+#Pcode,P0337,Crank loss,转速信号丢失
+#Pcode,P0336,Crank sync noise,转速信号干扰
+#Pcode,P0562,Battery Voltage Low,蓄电池电压低
+#Pcode,P0563,Battery Voltage High,蓄电池电压高
+#Pcode,P0326,Knock Sensor 1 Circuit Performance,爆震1性能
+#Pcode,P0331,Knock Sensor 2 Circuit Performance,爆震2性能
+#Pcode,P1151,Fuel trim high,燃料修正高
+#Pcode,P1152,Fuel trim low,燃料修正低
+#Pcode,P0508,Idle Air Control System Circuit Low,怠速流量控制短接低
+#Pcode,P0509,Idle Air Control System Circuit High,怠速流量控制短接高
+#Pcode,P0231,Fuel Pump Secondary Circuit Low,油泵短接低
+#Pcode,P0232,Fuel Pump Secondary Circuit High,油泵短接高
+#Pcode,P0230,Fuel Pump Primary Circuit,油泵反馈错
+#Pcode,P2184,Coolant Temperature Sensor 2 Circuit Low,缸温2短接低
+#Pcode,P2185,Coolant Temperature Sensor 2 Circuit High,缸温2短接高
+#Pcode,P0444,Carbon Canister Purge Control Valve Circuit Low,碳罐控制阀短接低
+#Pcode,P0445,Carbon Canister Purge Control Valve Circuit High,碳罐控制阀短接高
+#Pcode,P0606,ECM Software Error,软件错
+#Pcode,P0A5B,Generator Current Sensor Circuit Low,发电电流传感器短接低
+#Pcode,P0A5C,Generator Current Sensor Circuit High,发电电流传感器短接高
+#Pcode,P1621,Water Pressure Sensor Circuit Low,水压传感器短接低
+#Pcode,P1622,Water Pressure Sensor Circuit High,水压传感器短接高
+#Pcode,P063C,Generator Voltage Sensor Circuit Low,发电电压传感器短接低
+#Pcode,P063D,Generator Voltage Sensor Circuit High,发电电压传感器短接高
+#Pcode,P0916,Gear Shift Position Circuit Low,转速档位短接低
+#Pcode,P0917,Gear Shift Position Circuit High,转速档位短接高
+#Pcode,P0219,Engine Overspeed,超速
+#Pcode,P0171,System Too Lean CO warning,CO报警
+#Pcode,P0222,Throttle Position Sensor  2 Circuit Low,节气门2位置传感器短接低
+#Pcode,P0223,Throttle Position Sensor 2 Circuit High,节气门2位置传感器短接高
+#Pcode,P3102,Throttle Actuator Control Motor 2 Circuit Low ,节气门电机2短接低
+#Pcode,P3103,Throttle Actuator Control Motor 2 Circuit High,节气门电机2短接高
+#Pcode,P3108,Throttle Actuator Control Module 2-Stuck,节气门电机2堵转
+#Pcode,P3184,Coolant Temperature Sensor 3 Circuit Low,缸温3短接低
+#Pcode,P3185,Coolant Temperature Sensor 3 Circuit High,缸温3短接高
+#Pcode,P4184,Coolant Temperature Sensor 4 Circuit Low,缸温4短接低
+#Pcode,P4185,Coolant Temperature Sensor 4 Circuit High,缸温4短接高
+#Pcode,P5184,Coolant Temperature Sensor 5 Circuit Low,缸温5短接低
+#Pcode,P5185,Coolant Temperature Sensor 5 Circuit High,缸温5短接高
+#Pcode,P6184,Coolant Temperature Sensor 6 Circuit Low,缸温6短接低
+#Pcode,P6185,Coolant Temperature Sensor 6 Circuit High,缸温6短接高
