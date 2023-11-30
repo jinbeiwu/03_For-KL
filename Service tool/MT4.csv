@@ -1,0 +1,51 @@
+18,1,100,0,,,,,,,
+Name,length,AX,unit,unsigned,round,other,dashboard,Max,Min,unit2
+EngineState,1,1,other,0,0,0 OFF:1 KEYON:2 CRANK:3 RUN:4 STALL:5 PWROFFDLY:6 SHUTDOWN,256,256,0,
+IGNState,1,1,other,0,0,1 OFF:2 ON,256,256,0,
+EngineSpeed,2,0.25,rpm,0,2,nothing,1,2000,0,rpm
+DsrdEngSpd,2,0.25,rpm,0,2,nothing,256,256,0,
+TPS,2,0.003051758,%,0,2,nothing,2,100,0,%
+DesireTPS,2,0.003051758,%,0,2,nothing,256,256,0,
+FCVPS,2,0.003051758,%,0,2,nothing,3,100,0,%
+DesireFCVPS,2,0.003051758,%,0,2,nothing,256,256,0,
+CoolTemp,2,0.0078125,¡«C,1,2,nothing,4,120,-40,¡æ
+IntakeAirTemp,2,0.0078125,¡«C,1,2,nothing,5,120,-40,¡æ
+PCodeActive,2,1,16H,0,0,nothing,256,256,0,
+MAPActual,2,0.0078125,kpa,0,2,nothing,6,240,40,kpa
+OilPres,2,0.03125,kpa,0,2,nothing,256,256,0,
+FuelPressure,2,0.0078125,kpa,1,2,nothing,8,5,-5,kpa
+BSTPActual,2,0.0078125,kpa,0,2,nothing,7,240,40,kpa
+Baro,2,0.0078125,kpa,0,2,nothing,256,256,0,
+Oil pressure switch state,1,1,other,0,0,0 Not active:1 Active,256,256,0,
+MultFuelType,1,1,other,0,0,0 Petrol:1 NG:2 LPG,256,256,0,
+O2HeaterEnb,1,1, ,0,0,nothing,256,256,0,
+O2HeaterDC,2,0.003051758,%,0,2,nothing,256,256,0,
+FuelCLEnbCyl1,1,1, ,0,0,nothing,256,256,0,
+FuelINTCyl,2,1,counts,1,0,nothing,256,256,0,
+O2Volt,2,0.015625,mv,0,2,nothing,256,256,0,
+AFRFinal,2,0.000488281,ratio,0,2,nothing,256,256,0,
+AFRTarget,2,0.000488281,ratio,0,2,nothing,256,256,0,
+AirFlowCyl2,2,0.0078125,g/s,0,2,nothing,9,80,0,g/s
+FuelConsump,2,0.000244141,g/s,0,2,nothing,256,256,0,
+SprkDlvMode,1,1,other,0,0,0 Waste:1 Sequence,256,256,0,
+SAFinalCyl2,2,0.0078125,deg,1,2,nothing,256,256,0,
+SAGovernor,2,0.0078125,deg,1,2,nothing,256,256,0,
+BLM_CellRow,1,1, ,0,0,nothing,256,256,0,
+BLM_CellCol,1,1, ,0,0,nothing,256,256,0,
+RunTime,4,1,s,0,0,nothing,256,256,0,
+RunTimeTotal,4,1,s,0,0,nothing,256,256,0,
+Battery voltage,2,0.025,v,0,2,nothing,256,256,0,
+MAP_V,2,0.004887586,v,0,2,nothing,256,256,0,
+CLT_V,2,0.004887586,v,0,2,nothing,256,256,0,
+MAT_V,2,0.004887586,v,0,2,nothing,256,256,0,
+BSTP_V,2,0.004887586,v,0,2,nothing,256,256,0,
+TPS_V,2,0.004887586,v,0,2,nothing,256,256,0,
+FCVPS_V,2,0.004887586,v,0,2,nothing,256,256,0,
+O2_1_V,2,0.004887586,v,0,2,nothing,256,256,0,
+O2_2_V,2,0.004887586,v,0,2,nothing,256,256,0,
+FP_V,2,0.004887586,v,0,2,nothing,256,256,0,
+OP_V,2,0.004887586,v,0,2,nothing,256,256,0,
+Oil Switch,1,1,other,0,0,0 LOW:1 HIGH,256,256,0,
+Mult Fuel Select,1,1,other,0,0,0 LOW:1 HIGH,256,256,0,
+NG Fuel valve,1,1,other,0,0,0 OFF:1 ON,256,256,0,
+LP Fuel valve,1,1,other,0,0,0 OFF:1 ON,256,256,0,
