@@ -1,0 +1,6 @@
+[Label] 
+; Variable
+CT_DesireEngSpdLinear ; The distribution values are different. The fixed distribution(s) of CT_DesireEngSpdLinear are not copied because they are calculated and thus not stored in the dataset [USER A\RS19_2.RS19_Inst_1].
+CT_FPFiltCoef ; The distribution values are different. The fixed distribution(s) of CT_FPFiltCoef are not copied because they are calculated and thus not stored in the dataset [USER A\RS19_2.RS19_Inst_1].
+CT_IdleIntGainEngSpdHigh_EX ; Unit is not identical. [USER A\KL20230818.KL20230818_6, USER A\RS19_2.RS19_Inst_1]
+CT_IdleIntGainEngSpdLow_EX ; Unit is not identical. [USER A\KL20230818.KL20230818_6, USER A\RS19_2.RS19_Inst_1]
