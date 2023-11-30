@@ -1,0 +1,23 @@
+#header,#Code,Explanation
+#break,#Pcode_section,
+#Pcode,P0118,coolant/engine header temperature sensor short to high
+#Pcode,P0117,coolant/engine header temperature sensor short to low
+#Pcode,P0113,intake air temperature sensor short to high
+#Pcode,P0112,intake air temperature sensor short to low
+#Pcode,P0108,intake manifold air pressure sensor short to high
+#Pcode,P0107,intake manifold air pressure sensor short to low
+#Pcode,P0563,system power supply voltage is too high
+#Pcode,P0562,system power supply voltage is too low
+#Pcode,P0123,throttle position sensor short to high
+#Pcode,P0122,throttle position sensor short to low
+#Pcode,P0132,oxygen sensor short to high
+#Pcode,P0131,oxygen sensor short to low
+#Pcode,P0505,stepper motor control fault
+#Pcode,P0337,crank sensor no signal
+#Pcode,P0336,crank sensor noise
+#Pcode,P0351,spark coil 1 fault
+#Pcode,P0352,spark coil 2 fault
+#Pcode,P0201,fuel injector 1 fault
+#Pcode,P0202,fuel injector 2 fault
+#Pcode,P0231,fuel pump fault
+#Pcode,P0030,oxygen sensor heater fault
