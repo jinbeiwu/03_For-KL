@@ -1,0 +1,33 @@
+E:\tset\C#\test1\IAP\bin\Debug\IAP.exe.config
+E:\tset\C#\test1\IAP\bin\Debug\IAP.exe
+E:\tset\C#\test1\IAP\bin\Debug\IAP.pdb
+E:\tset\C#\test1\IAP\obj\Debug\IAP.csproj.AssemblyReference.cache
+E:\tset\C#\test1\IAP\obj\Debug\IAP.csproj.SuggestedBindingRedirects.cache
+E:\tset\C#\test1\IAP\obj\Debug\IAP.Form1.resources
+E:\tset\C#\test1\IAP\obj\Debug\IAP.Properties.Resources.resources
+E:\tset\C#\test1\IAP\obj\Debug\IAP.csproj.GenerateResource.cache
+E:\tset\C#\test1\IAP\obj\Debug\IAP.csproj.CoreCompileInputs.cache
+E:\tset\C#\test1\IAP\obj\Debug\IAP.exe
+E:\tset\C#\test1\IAP\obj\Debug\IAP.pdb
+E:\tset\C#\test1\IAP - 副本\bin\Debug\IAP.exe.config
+E:\tset\C#\test1\IAP - 副本\bin\Debug\IAP.exe
+E:\tset\C#\test1\IAP - 副本\bin\Debug\IAP.pdb
+E:\tset\C#\test1\IAP - 副本\obj\Debug\IAP.csproj.AssemblyReference.cache
+E:\tset\C#\test1\IAP - 副本\obj\Debug\IAP.csproj.SuggestedBindingRedirects.cache
+E:\tset\C#\test1\IAP - 副本\obj\Debug\IAP.Form1.resources
+E:\tset\C#\test1\IAP - 副本\obj\Debug\IAP.Properties.Resources.resources
+E:\tset\C#\test1\IAP - 副本\obj\Debug\IAP.csproj.GenerateResource.cache
+E:\tset\C#\test1\IAP - 副本\obj\Debug\IAP.csproj.CoreCompileInputs.cache
+E:\tset\C#\test1\IAP - 副本\obj\Debug\IAP.exe
+E:\tset\C#\test1\IAP - 副本\obj\Debug\IAP.pdb
+E:\tset\C#\test1\IAP - 副本 - 副本\bin\Debug\IAP.exe.config
+E:\tset\C#\test1\IAP - 副本 - 副本\bin\Debug\IAP.exe
+E:\tset\C#\test1\IAP - 副本 - 副本\bin\Debug\IAP.pdb
+E:\tset\C#\test1\IAP - 副本 - 副本\obj\Debug\IAP.csproj.AssemblyReference.cache
+E:\tset\C#\test1\IAP - 副本 - 副本\obj\Debug\IAP.csproj.SuggestedBindingRedirects.cache
+E:\tset\C#\test1\IAP - 副本 - 副本\obj\Debug\IAP.Form1.resources
+E:\tset\C#\test1\IAP - 副本 - 副本\obj\Debug\IAP.Properties.Resources.resources
+E:\tset\C#\test1\IAP - 副本 - 副本\obj\Debug\IAP.csproj.GenerateResource.cache
+E:\tset\C#\test1\IAP - 副本 - 副本\obj\Debug\IAP.csproj.CoreCompileInputs.cache
+E:\tset\C#\test1\IAP - 副本 - 副本\obj\Debug\IAP.exe
+E:\tset\C#\test1\IAP - 副本 - 副本\obj\Debug\IAP.pdb
