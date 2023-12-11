@@ -1,4 +1,0 @@
-[Label]
- ; Variable
-C_FUEL_COA_LowActive; Variable available in source dataset KL20231115_5, but missing in destination RS19_Inst_1.
-C_FUEL_t_COA_Filt; Variable available in source dataset KL20231115_5, but missing in destination RS19_Inst_1.

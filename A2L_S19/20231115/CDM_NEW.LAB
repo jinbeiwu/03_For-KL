@@ -1,7 +1,0 @@
-[Label]
- ; Variable
-C_ETCMMotorHiEn; Variable available in destination dataset RS19_Inst_1, but missing in source KL20231115_5.
-C_FUEL_t_COA_Lost; Variable available in destination dataset RS19_Inst_1, but missing in source KL20231115_5.
-C_IdleIntDltRange; Variable available in destination dataset RS19_Inst_1, but missing in source KL20231115_5.
-CT_FPWCorrFactorForFuelPressure_LPG; Variable available in destination dataset RS19_Inst_1, but missing in source KL20231115_5.
-CT_FPWCorrFactorForFuelPressure_NG; Variable available in destination dataset RS19_Inst_1, but missing in source KL20231115_5.
