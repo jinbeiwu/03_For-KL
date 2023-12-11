@@ -1,7 +1,0 @@
-[Label]
- ; Variable
-C_SAGovIntRampInterval; Variable available in destination dataset RS19_Inst_1, but missing in source KL20230728_6.
-C_SAGovIntRampStep; Variable available in destination dataset RS19_Inst_1, but missing in source KL20230728_6.
-CT_FPFiltCoef; Variable available in destination dataset RS19_Inst_1, but missing in source KL20230728_6.
-CT_SAGovMaxLimit_LPG; Variable available in destination dataset RS19_Inst_1, but missing in source KL20230728_6.
-CT_SAGovMaxLimit_NG; Variable available in destination dataset RS19_Inst_1, but missing in source KL20230728_6.

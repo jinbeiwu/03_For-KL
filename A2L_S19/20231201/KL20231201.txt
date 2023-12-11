@@ -1,0 +1,31 @@
+[ Comment of project ]
+PROJECT NAME           : RS19_Prod
+PROJECT LONGIDENTIFIER : 
+HEADER PROJECT_NO      : 
+DAY OF CREATING        : 2023/12/1
+TIME OF CREATING       : 14:52:41
+ASAP2 FILE             : E:\GitHubFiles\kl\03_For-KL\A2L_S19\20231201\KL20231201.a2l
+MASTER HEX FILE        : E:\GitHubFiles\kl\03_For-KL\A2L_S19\20231201\KL20231201.s19
+
+[ Comment of dataset ]
+COUNTER OF CHANGES     : 9
+DATASET                : 
+LAST USER              : Administrator
+DAY OF CHANGING        : 2023/12/1
+TIME OF CHANGING       : 15:01:07
+COMMENTS               : 
+
+the source of this data set is the hexfile:
+E:\GitHubFiles\kl\03_For-KL\A2L_S19\20231201\KL20231201.s19
+2023/12/1 14:46:44 644 KB
+
+
+
+Copied from the master: KL20231201. (2023/12/1 14:52:51)
+Created hexfile: E:\GitHubFiles\kl\03_For-KL\A2L_S19\20231201\KL20231201.s19
+2023/12/1 14:56:36 560 KB by: Administrator
+
+Copied from dataset: KL20231201_1. (2023/12/1 14:57:10)
+Created hexfile: E:\GitHubFiles\kl\03_For-KL\A2L_S19\20231201\KL20231201.s19
+2023/12/1 15:01:13 560 KB by: Administrator
+

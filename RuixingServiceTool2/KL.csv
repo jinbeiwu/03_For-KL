@@ -1,0 +1,48 @@
+18,5,0,0,,,
+Name,length,AX,unit,unsigned,round,other
+EngineState,1,1,other,0,0,0 OFF:1 KEYON:2 CRANK:3 RUN:4 STALL:5 PWROFFDLY:6 SHUTDOWN
+IGNState,1,1,other,0,0,1 OFF:2 ON
+EngineSpeed,2,0.25,rpm,0,2,nothing
+DsrdEngSpd,2,0.25,rpm,0,2,nothing
+TPS,2,0.003051758,%,0,2,nothing
+DesireTPS,2,0.003051758,%,0,2,nothing
+FCVPS,2,0.003051758,%,0,2,nothing
+DesireFCVPS,2,0.003051758,%,0,2,nothing
+CoolTemp,2,0.0078125,¡«C,1,2,nothing
+IntakeAirTemp,2,0.0078125,¡«C,1,2,nothing
+PCodeActive,2,1,16H,0,0,nothing
+MAPActual,2,0.00390625,kpa,0,2,nothing
+FuelPressureRelative,2,0.0078125,kpa,1,2,nothing
+BSTPActual,2,0.00390625,kpa,0,2,nothing
+Baro,2,0.00390625,kpa,0,2,nothing
+Oil pressure switch state,1,1,other,0,0,0 Not active:1 Active
+MultFuelType,1,1,other,0,0,0 Petrol:1 NG:2 LPG
+O2HeaterEnb,1,1, ,0,0,nothing
+O2HeaterDC,2,0.003051758,%,0,2,nothing
+FuelCLEnbCyl1,1,1, ,0,0,nothing
+FuelINTCyl,2,1,counts,1,0,nothing
+O2Volt,2,0.015625,mv,0,2,nothing
+AFRFinal,2,0.000488281,ratio,0,2,nothing
+AFRTarget,2,0.000488281,ratio,0,2,nothing
+AirFlowCyl2,2,0.0078125,g/s,0,2,nothing
+FuelConsump,2,0.000244141,g/s,0,2,nothing
+SprkDlvMode,1,1,other,0,0,0 Waste:1 Sequence
+SAFinalCyl2,2,0.0078125,deg,1,2,nothing
+SAGovernor,2,0.0078125,deg,1,2,nothing
+BLM_CellRow,1,1, ,0,0,nothing
+BLM_CellCol,1,1, ,0,0,nothing
+RunTime,4,1,s,0,0,nothing
+RunTimeTotal,4,1,s,0,0,nothing
+Battery voltage,2,0.025,v,0,2,nothing
+MAP,2,0.004887586,v,0,2,nothing
+CLT,2,0.004887586,v,0,2,nothing
+MAT,2,0.004887586,v,0,2,nothing
+BSTP,2,0.004887586,v,0,2,nothing
+TPS,2,0.004887586,v,0,2,nothing
+FCVPS,2,0.004887586,v,0,2,nothing
+O2_1,2,0.004887586,v,0,2,nothing
+O2_2,2,0.004887586,v,0,2,nothing
+Oil Switch,1,1,other,0,0,0 LOW:1 HIGH
+Mult Fuel Select,1,1,other,0,0,0 LOW:1 HIGH
+NG Fuel Cut off valve,1,1,other,0,0,0 OFF:1 ON
+LPG Fuel Cut off valve,1,1,other,0,0,0 OFF:1 ON

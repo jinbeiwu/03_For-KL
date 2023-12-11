@@ -1,4 +1,0 @@
-[Label]
- ; Variable
-C_MultFuelValvePulseOffTimeDuringCrank; Variable available in destination dataset KL20230616_1, but missing in source 22T_KL20230525_4.
-C_MultFuelValvePulseOnTimeDuringCrank; Variable available in destination dataset KL20230616_1, but missing in source 22T_KL20230525_4.
